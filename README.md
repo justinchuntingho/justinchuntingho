@@ -1,4 +1,5 @@
-![alt text](https://github.com/justinchuntingho/justinchuntingho/blob/master/plot_topic_animate.gif | width=100)
+I am interested in computational social science, especially computationa text analysis. My PhD focuses on the online discoruse of Hong Kong nationalism.
+![alt text](https://github.com/justinchuntingho/justinchuntingho/blob/master/plot_topic_animate.gif)
 
 <!--
 **justinchuntingho/justinchuntingho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
