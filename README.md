@@ -1,4 +1,4 @@
-![alt text](plot_topic_animate.gif)
+![alt text](https://github.com/justinchuntingho/justinchuntingho/plot_topic_animate.gif)
 
 <!--
 **justinchuntingho/justinchuntingho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
