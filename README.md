@@ -1,6 +1,4 @@
-I am interested in computational social science, especially computationa text analysis. My research focuses on nationalism discourse on social media. Here's a graph from my PhD thesis:
-![alt text](https://github.com/justinchuntingho/justinchuntingho/blob/master/plot_topic_animate.gif)
-
+I am interested in computational social science, especially computationa text analysis. My research focuses on nationalism discourse on social media.
 <!--
 **justinchuntingho/justinchuntingho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
